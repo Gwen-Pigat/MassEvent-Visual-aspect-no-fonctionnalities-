@@ -1,0 +1,61 @@
+body{
+	font-family: "fat";
+	background-color: #EFEFCE;
+	color: #24334C;
+	text-align: left
+}
+
+h1{
+	font-size: 80px;
+	margin-top: -10px;
+}
+
+h2{
+	margin-top: -20px;
+margin-bottom: 100px;
+font-size: 25px;
+}
+
+@font-face{
+	font-family: "test";
+	src: "Sketch_Block.ttf";
+}
+
+@font-face{
+	font-family: "fat";
+	src: "fat.ttf";
+}
+
+.oublie{
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+
+.btn-success{
+	font-size: 20px;
+	margin: 2%;
+	margin-bottom: 10%;
+}
+
+.btn-danger{
+	font-size: 20px;
+	margin-top: 10%;
+}
+
+.mail{
+	margin-top: 250px;
+	margin-bottom: 120px;
+	font-size: 35px;
+}
+
+p{
+	font-size: 15px;
+}
+
+.first{
+	margin-top: 10%;
+}
+
+input{
+	border-radius: 5px;
+}
