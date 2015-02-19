@@ -7,10 +7,10 @@
 </head>
 <body><center>
   <p class="mail">Nous vous avons envoyé un mail <br>avec votre mot de passe ;)</p>
-<a href="page0.html">
+<a href="page0.php">
 <button class="btn btn-danger">Page d'accueil --></button><br></a>
 </center>
 </body>
-<script type="text/javascript" src="jquery-1.11.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 </html>

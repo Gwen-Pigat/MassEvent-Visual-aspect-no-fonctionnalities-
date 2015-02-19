@@ -6,6 +6,7 @@
   <title>MassEvent</title>
 </head>
 <body>
+<?php include('navbar.php') ?>	
 <a href="page1.html">
 <p class="creer">Créez un compte</p>
 </a>  
